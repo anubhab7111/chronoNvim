@@ -17,7 +17,7 @@ Using **lazy.nvim**:
 
 ```lua
 {
-  "ushtro/chronoNvim",
+  "anubhab7111/chronoNvim",
   config = function()
     require("chronoNvim")
   end
@@ -28,7 +28,7 @@ Using **packer.nvim**:
 
 ```lua
 use {
-  "ushtro/chronoNvim",
+  "anubhab7111/chronoNvim",
   config = function()
     require("chronoNvim")
   end
